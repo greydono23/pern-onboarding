@@ -51,10 +51,9 @@ function App() {
             <div key={i}>{item.pern_name} — {item.pern_role} - {item.pern_year}</div>
           ))}
         </div>
-        <div className="w-1/2 text-center mt-4">
+        <div className="text-center mt-4">
           Nice Job! Now that you're seeing this, kill both terminals and cd back to the root project directory, commit, push and create a PR!
         </div>
-        
       </div> */}
       {/* --------------------------------------------- */}
 
